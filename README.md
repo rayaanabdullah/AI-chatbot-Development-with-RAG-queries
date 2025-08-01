@@ -1,4 +1,4 @@
-#  RAG System – AI-Powered Multilingual Document QA API
+#  RAG System – AI-Powered ChatBot from Document QA API
 
 ## 🎯 Objective
 
